@@ -25,6 +25,9 @@ p{
 .titleBox{
     text-align: center;
     height: fit-content;
+    background-image: url("images/behindTheBar1trans.png");
+    background-position: center;
+    padding: 20px;
 }
 
 .mainBody{
@@ -38,7 +41,7 @@ p{
     display: flex;
 }
 
-.navbar button{
+.navButton{
     width: 25%;
     height: 60px;
     color: red;
@@ -49,7 +52,18 @@ p{
     box-sizing: border-box;
 }
 
-.navbar button:hover{
+.navButton:hover{
+    border-color: black;
+}
+
+.navButton button{
+    width: 100%;
+    height: 100%;
+    color: red;
+    font-weight: bolder;
+}
+
+.navButton button:hover{
     color: black;
     border-color: black;
     cursor: pointer;
