@@ -30,12 +30,13 @@
             <p>We have a large function room with a stage to facilitate all types of parties, as well as a resident caterer and resident performers and DJs who will offer a reasonable price for services. Whether it's a wedding, birthday, funeral or just an excuse to get drunk, we're here every step of the way!</p>
             <br>
             <div id="mediaButtonsIndex">
-                <button><a href="https://www.facebook.com/MelInnBootle/?ref=page_internal"><img src="images/facebook.png" id="facebookPic"><p>Find us on Facebook</p></a></button> <p>  </p> <button><a href="https://www.instagram.com/melinnhawthorneroad/"><img src="images/instagram.png" id="instaPic"><p>Find us on Instagram</p></a></button>
+                <button><a href="https://www.facebook.com/MelInnBootle/?ref=page_internal" target="_blank"><img src="images/facebook.png" id="facebookPic"><p>Find us on Facebook</p></a></button> <p></p> <button><a href="https://www.instagram.com/melinnhawthorneroad/" target="_blank"><img src="images/instagram.png" id="instaPic"><p>Find us on Instagram</p></a></button>
             </div>
         </div>
         <div class="rightIndex">
             <img src="images/outside.jpg" id="outsideImage">
         </div>
     </div>
+    <?php include_once "subpages/footer.html"; ?>
 </body>
 </html>
