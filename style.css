@@ -125,3 +125,33 @@ p{
 #instaPic{
     width: 30px;
 }
+
+/*functions specifics*/
+
+.mainBodyFunctions{
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+}
+
+.functionsLeftBox{
+    margin: 10px;
+    border-style: solid;
+    border-color: red;
+    border-width: 3PX;
+    height: fit-content;
+    padding: 10px;
+    width: 80%;
+    display: inline-block;
+    text-align: center;
+}
+
+.functionsPhotos{
+    display: flex;
+    justify-content: center;
+}
+
+.functionsPhotos img{
+    width: 30%;
+    margin: 10px;
+}
