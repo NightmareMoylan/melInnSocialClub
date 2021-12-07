@@ -18,7 +18,7 @@
     <div class="mainBodyFunctions">
         <br>
         <div class="functionsLeftBox">
-            <p>The Member's lounge is where the locals reside, and is also a nice place for a drink if you're passing by. This is wherte we will often stage live entertainment such as musical performers, kareoke and festive events. There are also darts boards, and a darts team who play out of the club.</p>
+            <p>The Member's lounge is where the locals reside, and is also a nice place for a drink if you're passing by. This is where we will often stage live entertainment such as musical performers, kareoke and festive events. There are also darts boards, and a darts team who play out of the club.</p>
         </div>
         <div class="functionsPhotos">
             <img src="images/membersLounge1.jpg">

@@ -161,3 +161,17 @@ p{
     width: 30%;
     margin: 10px;
 }
+
+/*Contact us specifics*/
+
+#contactUsOpeningTimes{
+    color: black;
+}
+
+#contactUsAddress{
+    color: black;
+}
+
+#contactUsPhone{
+    color: black;
+}
