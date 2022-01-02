@@ -22,7 +22,7 @@
         <div class="leftIndex">
             <h3>Welcome to the Mel Inn Social Club</h3>
             <br>
-            <p>We're a family run business who serve cold beverages to both members and visitors. We serve Guiness, John Smiths and Mild, as well as a fine selection of lagers such as Birra Moretti and Hop House 13.</p>
+            <p>We're a private member's club who serve cold beverages to both members and visitors. We serve Guiness, John Smiths and Mild, as well as a fine selection of lagers such as Birra Moretti and Carling.</p>
             <br>
             <p>We often feature live entertainment, which includes live bands and performing artists, as well as showing the football where possible. We also have a darts team who play regularly in the Member's Lounge.</p>
             <br>
